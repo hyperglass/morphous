@@ -11,7 +11,7 @@ import {
 
 const members = [
   {
-    avatar: 'https://svgshare.com/i/17E4.svg',
+    avatar: 'https://i.ibb.co/c1z55sx/rushil-profile.jpg',
     name: 'Rushil',
     title: 'Team Member',
     links: [
@@ -19,7 +19,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://svgshare.com/i/17E4.svg',
+    avatar: 'https://i.ibb.co/8XGXZHj/stefan-profile.jpg',
     name: 'Stefan',
     title: 'Team Member',
     links: [
