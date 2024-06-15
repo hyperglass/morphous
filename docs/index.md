@@ -14,23 +14,23 @@ hero:
 features:
   - icon:
       src: https://i.ibb.co/F0FCmxR/poco-f5.png
-      width: 150
+      width: 125
     title: Poco F5
     details: marble
     link: https://hyperglass.github.io/morphous-marble/
 
   - icon:
       src: https://xdaforums.com/data/xda/device/icon/20/2079.jpg?1696672907
-      width: 150
+      width: 125
     title: Pixel 8 Pro
-    details: husky (Coming Soon)
+    details: husky
     link:
 
   - icon:
       src: https://xdaforums.com/data/xda/device/icon/16/1651.jpg?1622124707
-      width: 150
+      width: 125
     title: Redmi Note 10S
-    details: rosemary (Coming Soon)
+    details: rosemary
     link:
 
 
