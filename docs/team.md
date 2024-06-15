@@ -15,8 +15,7 @@ const members = [
     name: 'Rushil',
     title: 'Team Member',
     links: [
-      { icon: 'github', link: '' },
-      { icon: 'twitter', link: '' }
+      { icon: 'github', link: 'https://github.com/hyperglass' },
     ]
   },
   {
@@ -24,8 +23,6 @@ const members = [
     name: 'Stefan',
     title: 'Team Member',
     links: [
-      { icon: 'github', link: '' },
-      { icon: 'twitter', link: '' }
     ]
   },
   {
@@ -33,8 +30,6 @@ const members = [
     name: 'Hyde',
     title: 'Team Member',
     links: [
-      { icon: 'github', link: '' },
-      { icon: 'twitter', link: '' }
     ]
   }
   // Add more members as needed
@@ -43,20 +38,11 @@ const members = [
 const special_thanks = [
   {
     avatar: 'https://svgshare.com/i/17E4.svg',
-    name: 'Name',
-    title: 'Title',
+    name: 'Joey',
+    title: 'Evolution X Lead',
     links: [
-      { icon: 'github', link: '' },
-      { icon: 'discord', link: '' }
-    ]
-  },
-  {
-    avatar: 'https://svgshare.com/i/17E4.svg',
-    name: 'Name',
-    title: 'Title',
-    links: [
-      { icon: 'github', link: '' },
-      { icon: 'mastodon', link: '' }
+      { icon: 'github', link: 'https://github.com/Evolution-XYZ' },
+      { icon: 'discord', link: 'https://evolution-x.org/' }
     ]
   },
   // Add more members as needed
@@ -82,7 +68,7 @@ const special_thanks = [
       Special Thanks
     </template>
     <template #lead>
-      Special thanks to these individuals for their outstanding contributions.
+      Special thanks to these individuals. This project wouldn't have been possible without them.
     </template>
   </VPTeamPageTitle>
 
