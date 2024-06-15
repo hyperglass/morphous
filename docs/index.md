@@ -23,14 +23,14 @@ features:
       src: https://xdaforums.com/data/xda/device/icon/20/2079.jpg?1696672907
       width: 180
     title: Pixel 8 Pro
-    details: husky
+    details: husky (Coming Soon)
     link:
 
   - icon:
       src: https://xdaforums.com/data/xda/device/icon/16/1651.jpg?1622124707
       width: 180
     title: Redmi Note 10S
-    details: rosemary
+    details: rosemary (Coming Soon)
     link:
 
 
