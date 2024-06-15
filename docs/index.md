@@ -14,21 +14,21 @@ hero:
 features:
   - icon:
       src: https://i.ibb.co/F0FCmxR/poco-f5.png
-      width: 123
+      width: 180
     title: Poco F5
     details: marble
     link: https://hyperglass.github.io/morphous-marble/
 
   - icon:
       src: https://xdaforums.com/data/xda/device/icon/20/2079.jpg?1696672907
-      width: 123
+      width: 180
     title: Pixel 8 Pro
     details: husky
     link:
 
   - icon:
       src: https://xdaforums.com/data/xda/device/icon/16/1651.jpg?1622124707
-      width: 123
+      width: 180
     title: Redmi Note 10S
     details: rosemary
     link:
@@ -38,11 +38,22 @@ features:
 
 <style>
   div.item {
-    width: auto !important;
-  }
+    align-items: center; 
+    justify-content: center; 
+}
   div.item h2.title {
-    font-size: 20px;
+    font-size: 20px; 
+}
+  @media (min-width: 600px) {
+  div.item {
+    width: calc(33.33% - 20px) !important; 
+    flex-direction: row; /* Change to two columns */
+    flex-wrap: wrap;
+    flex-direction: 3 column;
+    align-items: center; 
+    justify-content: center; 
   }
+}
 </style>
 
 
