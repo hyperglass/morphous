@@ -7,9 +7,6 @@ export default defineConfig({
   ],
 
   themeConfig: {
-    search: {
-      provider: 'local'
-    },
     nav: [
       { text: 'Team', link: '/team' },
     ],
@@ -20,7 +17,7 @@ export default defineConfig({
       alt: 'Morphous Logo'
     },
 
-    siteTitle: "Gladiolus’ Morphous",
+    siteTitle: "Morphous",
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/hyperglass' },
