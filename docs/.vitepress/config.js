@@ -25,7 +25,7 @@ export default defineConfig({
     ],
 
     editLink: {
-      pattern: 'https://github.com/hyperglass/morphous/edit/main/docs/:path',
+      pattern: 'https://github.com/hyperglass/morphous-marble/edit/main/docs/:path',
       text: 'Edit this page on GitHub'
     },
 
