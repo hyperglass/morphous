@@ -18,7 +18,7 @@ export default defineConfig({
     },
 
     siteTitle: "Morphous",
-
+    description: "A Practical Approach for Modding Android",
     socialLinks: [
       { icon: 'github', link: 'https://github.com/hyperglass' },
       { icon: 'discord', link: 'https://discord.gg/TnPumBTqvv' }
