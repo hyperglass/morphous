@@ -1,7 +1,7 @@
 ---
 layout: home
 body_class: specific-page
-title: "Your Page Title"
+title: "Devices"
 
 
 hero:
@@ -47,7 +47,7 @@ features:
 @media (min-width: 600px) {
   .specific-page div.item {
     width: calc(33.33% - 20px);
-    flex-direction: row; /* Change to two columns */
+    flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
