@@ -1,5 +1,8 @@
 ---
 layout: home
+body_class: specific-page
+title: "Your Page Title"
+
 
 hero:
   name: Morphous
@@ -37,21 +40,17 @@ features:
 ---
 
 <style>
-  div.item {
-    align-items: center; 
-    justify-content: center; 
+.specific-page div.item h2.title {
+  font-size: 20px;
 }
-  div.item h2.title {
-    font-size: 20px; 
-}
-  @media (min-width: 600px) {
-  div.item {
-    width: calc(33.33% - 20px) !important; 
+
+@media (min-width: 600px) {
+  .specific-page div.item {
+    width: calc(33.33% - 20px);
     flex-direction: row; /* Change to two columns */
     flex-wrap: wrap;
-    flex-direction: 3 column;
-    align-items: center; 
-    justify-content: center; 
+    align-items: center;
+    justify-content: center;
   }
 }
 </style>
