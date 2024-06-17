@@ -16,6 +16,14 @@
   --vp-badge-tip-border: transparent;
   --vp-badge-tip-text: var(--vp-c-brand-1);
   --vp-badge-tip-bg: var(--vp-c-brand-soft);
+
+
+  --vp-button-sponsor-bg: #f3f3f3;
+  --vp-button-sponsor-border: #ddd;
+  --vp-button-sponsor-text: #000;
+  --vp-button-sponsor-hover-border: #bbb;
+  --vp-button-sponsor-hover-text: #000;
+  --vp-button-sponsor-hover-bg: #e2e2e2;
 }
 
 /*--> Dark Mode Colours*/
@@ -30,9 +38,16 @@
   --vp-c-brand-2: #dfd12f;
   --vp-c-brand-3: #86b91a;
   --vp-c-brand-soft: #87b91a20;
+
+
+  --vp-button-sponsor-bg: #333;
+  --vp-button-sponsor-border: #555;
+  --vp-button-sponsor-text: #fff;
+  --vp-button-sponsor-hover-border: #888;
+  --vp-button-sponsor-hover-text: #fff;
+  --vp-button-sponsor-hover-bg: #444;
 }
 /*End-of-Colours*/
-
 
 
 /*Alignments*/

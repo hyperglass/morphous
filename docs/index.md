@@ -36,7 +36,6 @@ features:
     details: rosemary (Coming Soon)
     link:
 
-
 ---
 
 <style>
